@@ -19,11 +19,12 @@
 Сторонние библиотеки: JCommander 1.78
 
 Зависимости для подключения бибилиотек:
+```
 <!-- https://mvnrepository.com/artifact/com.beust/jcommander -->
 <dependency>
     <groupId>com.beust</groupId>
     <artifactId>jcommander</artifactId>
     <version>1.78</version>
 </dependency>
-
+```
 Для запуска программы с другими аргументами раскомментировать соответствующую строку в методе main.
